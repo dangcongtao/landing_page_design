@@ -1,0 +1,23 @@
+/* set font for id main */
+#main 
+{
+    font-family: monospace;    
+    font-size: 30;
+    color: #91C8E4;
+}
+
+#list 
+{
+    font-family: monospace;    
+    font-size: 10;
+    color: #EEE0C9;
+}
+
+html 
+{
+    background-color: #F6F4EB;
+    /* set img as bg */
+    background: url(img/suke-water.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
